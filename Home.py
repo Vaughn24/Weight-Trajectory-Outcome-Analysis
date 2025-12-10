@@ -3,7 +3,7 @@ import pandas as pd
 from utils import load_and_process_data
 
 # Page config (must be first)
-st.set_page_config(page_title="Early Weight Loss Trajectories", layout="wide")
+st.set_page_config(page_title="Trajectory & Outcome Analysis", layout="wide")
 
 st.title("Worth the weight")
 st.write("A Trajectory & Outcome Analysis of the 12-Week Cohort Performance.")

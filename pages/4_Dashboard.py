@@ -9,7 +9,7 @@ from utils import load_and_process_data, filter_data, MED_COLORS, MED_ORDER
 import charts
 
 # --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="Eucalyptus Analytics", layout="wide")
+st.set_page_config(page_title="Trajectory & Outcome Analysis", layout="wide")
 
 # --- CUSTOM CSS ---
 st.markdown("""
